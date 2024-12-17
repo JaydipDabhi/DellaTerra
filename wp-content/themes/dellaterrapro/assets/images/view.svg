@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="vuesax_linear_scan-barcode" data-name="vuesax/linear/scan-barcode" transform="translate(-428 -252)">
+    <g id="scan-barcode" transform="translate(428 252)">
+      <path id="Vector" d="M0,6.417V4.125A4.119,4.119,0,0,1,4.125,0H6.417" transform="translate(1.833 1.833)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H2.292A4.119,4.119,0,0,1,6.417,4.125V6.417" transform="translate(13.75 1.833)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M5.5,0V1.375A4.119,4.119,0,0,1,1.375,5.5H0" transform="translate(14.667 14.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M6.417,6.417H4.125A4.119,4.119,0,0,1,0,2.292V0" transform="translate(1.833 13.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H22V22H0Z" transform="translate(22 22) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
